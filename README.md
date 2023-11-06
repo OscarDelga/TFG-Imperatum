@@ -21,7 +21,7 @@ Raton para la navegación entre menus
 <br/>
 
 Contenido de nuestra primera version:
-<br/>
+
 4 diferentes pantallas: Menú, primer nivel, menú de pausa, menú final
 <br/>
 Cambio de pantallas entre las diferentes escenas
