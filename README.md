@@ -2,7 +2,6 @@
 Esta es la primera version de nuestro prototipo, para jugarlo hace falta seguir los siguientes pasos:
 
 1.- Descargamops el archivo comprimido (.rar)
-
 2.- Descomprimimos el archivo
 
 3.- Abrimos la aplicacion llamada Imperatum
