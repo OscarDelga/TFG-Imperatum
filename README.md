@@ -19,7 +19,8 @@ Flecha vertical (arriba) para saltar
 <br/>
 Raton para la navegación entre menus
 <br/>
-Ahora explicare que tiene nuestra primera version:
+
+Contenido de nuestra primera version:
 <br/>
 4 diferentes pantallas: Menú, primer nivel, menú de pausa, menú final
 <br/>
