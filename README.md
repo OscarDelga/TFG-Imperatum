@@ -9,6 +9,7 @@ Esta es la primera version de nuestro prototipo, para jugarlo hace falta seguir 
 <br/>
 4.- Disfrutar del primer prototipo
 <br/>
+
 Controles:
 
 Los controles de esta version son los siguientes:
