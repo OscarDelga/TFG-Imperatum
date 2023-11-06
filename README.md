@@ -20,7 +20,7 @@ Flecha vertical (arriba) para saltar
 Raton para la navegación entre menus
 <br/>
 Ahora explicare que tiene nuestra primera version:
-
+<br/>
 4 diferentes pantallas: Menú, primer nivel, menú de pausa, menú final
 <br/>
 Cambio de pantallas entre las diferentes escenas
