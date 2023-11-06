@@ -10,7 +10,7 @@ Esta es la primera version de nuestro prototipo, para jugarlo hace falta seguir 
 4.- Disfrutar del primer prototipo
 
 
-#Controles:
+# Controles:
 
 Los controles de esta version son los siguientes:
 
@@ -21,7 +21,7 @@ Flecha vertical (arriba) para saltar
 Raton para la navegación entre menus
 
 
-#Contenido de nuestra primera version:
+# Contenido de nuestra primera version:
 
 4 diferentes pantallas: Menú, primer nivel, menú de pausa, menú final
 
