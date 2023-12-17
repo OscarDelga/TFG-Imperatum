@@ -7,7 +7,7 @@ Esta es la version Alpha de nuestro juego, para jugarlo hace falta seguir los si
 
 3.- Abrimos la aplicacion llamada Imperatum
 
-4.- Disfrutar del primer prototipo
+4.- Disfrutar de la Alpha
 
 
 # Controles:
