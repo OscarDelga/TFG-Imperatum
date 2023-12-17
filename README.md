@@ -35,4 +35,8 @@ Animación del personaje y enemigos
 
 Primer nivel completo con texturas
 
+Vida de enemigos
+
+Vida de personaje con HUB
+
 
