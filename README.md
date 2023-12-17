@@ -1,5 +1,5 @@
 # TFG-Imperatum
-Esta es la primera version de nuestro prototipo, para jugarlo hace falta seguir los siguientes pasos:
+Esta es la version Alpha de nuestro juego, para jugarlo hace falta seguir los siguientes pasos:
 
 1.- Descargamops el archivo comprimido (.rar)
 
@@ -20,13 +20,19 @@ Flecha vertical (arriba) para saltar
 
 Raton para la navegación entre menus
 
+Atacar con la tecla E.
 
-# Contenido de nuestra primera version:
 
-4 diferentes pantallas: Menú, primer nivel, menú de pausa, menú final
+# Contenido de nuestra Alpha:
+
+5 diferentes pantallas: Menú, primer nivel, segundo nivel (version early), menú de pausa, menú final
 
 Cambio de pantallas entre las diferentes escenas
 
 Movimiento del personaje
 
-Primer nivel sin texturas ni modelajes
+Animación del personaje y enemigos
+
+Primer nivel completo con texturas
+
+
